@@ -5,8 +5,9 @@ body {
 }
 
 h1 {
+  font-size: 90px;
   margin-top: 0;
-  font-family: 'Merriweather', serif;
+  font-family: sans-serif;
 }
 
 h2 {
@@ -24,15 +25,11 @@ h3 {
 }
 
 .middle {
-  background-color: blue;
-  height: 20px;
-  width: 20px;
+
 }
 
 .bottom {
-  background-color: red;
-  height: 200px;
-  width: 200px;
+
 }
 
 .pro {
